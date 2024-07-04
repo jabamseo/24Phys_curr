@@ -10,6 +10,8 @@ Jibeom Seo, Jun Cho, Sukyung Han, Meesoon Ha
 
 We investigate semantics networks of achievement standards for physics subjects in the 2022 revised curriculum to derive information embedded in the curriculum. We extract each subject’s keywords with node strength and random-walk betweenness, detect communities of physics terms by the optimized greedy algorithm, and find the connectivity of physics subjects using bipartite networks. The network analysis reveals three remarkable results: First, keywords are about scientific thinking and practices, evolving to a higher level as the grades increase. Second, there is a lack of connection to learning content in physics. Lastly, achievement standards for ‘Integrated Science’ are inadequate to fulfill the intended purpose of the curriculum. This is attributed to the reduced learning volume in the 2022 revised curriculum. Our study implies that the curriculum and achievement standards should be improved for the better connectivity of subjects.
 
+<br/>
+
 본 연구에서 활용한 데이터와 코드를 담고 있습니다.
 - All_data: 전체 단어 자료입니다.
 - Phy_data: 물리학 용어 자료입니다.
@@ -18,6 +20,6 @@ We investigate semantics networks of achievement standards for physics subjects 
 - Figure: 그림 원본 파일입니다.
 - Table: 논문의 영어 표를 한글로 번역한 것입니다.
 
-
+<br/><br/>
 
 ※ 문의사항: qja1264@gmail.com 또는 qja1264@g.skku.edu
