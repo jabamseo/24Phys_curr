@@ -1,0 +1,37 @@
+Force Object 
+Horizontality Object Weight 
+Weight Balances Balances Weight 
+Lever Slope Equipment Object Force Size Equipment Share 
+Object Matter Matter Object 
+Matter Phase Solid Liquid Gas 
+Matter Object 
+Object Sound Sound Object 
+Sound Sound Sound Sound Intensity Height Sound 
+Matter Sound Transmit 
+Magnet Object Magnet Magnet Object Act Force 
+Magnet Magnet Magnet Pole 
+Magnet 
+Water Phase 
+Water Ice Water Evaporation Vapor Congelation 
+Water Phase Water 
+Gas Weight 
+Temperature Pressure Gas Volume 
+Gas Gas 
+Gas 
+Object Light Light 
+Light Light Reflect Refraction 
+Mirror Lens Mirror Lens 
+Object Temperature Thermometer Temperature 
+Temperature Object Object Temperature 
+Heat Heat 
+Insulation Temperature 
+
+Renewable_energy Energy 
+Resource Energy 
+Motion Object Time Location 
+Object Distance Time Speed 
+Speed 
+Battery Bulb Wire Connection Bulb Light Light Electric_circuit 
+Battery Connection Electric_circuit Battery Serial_connection Electric_circuit 
+Electromagnet Electromagnet Electromagnet 
+Electricity 

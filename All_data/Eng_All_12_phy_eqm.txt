@@ -1,0 +1,17 @@
+Charge Electric_field Quantitative Electric_field_lines Equipotential_surface Electric_field Intensity Direction Reason 
+Electrostatic_induction Dielectric_polarization Explain Everyday_life Apply Example 
+Magnetic_field_lines Use Electric_current Wire Magnetic_field Intensity Direction Reason 
+Lorentz_force Generate Condition Lorentz_force Phenomenon Technology Explain 
+Magnetic_flux Change Electromagnetic_induction Understand Transformers Inductor Electromagnetic_induction Applicate Technology Explain 
+Resistance Capacitor Inductor Applicate Device Energy Qualitative Explain 
+Diode Transistor Semiconductor Applicate Electronic_circuit Analyze Modern Civilization Semiconductor Important Recognize 
+Light Interference Diffraction Hologram Modern Cutting_edge Technology Applicate Example 
+Lens Mirror Use Optical_equipment Principle Aberration Explain 
+Polarization Principle Understand Applicate Digital Information Technology Example Inspect 
+Photoelectric_effect Light Matter Interaction Method Digital Video Information Optical_sensor Solar_cell Photoelectric_effect Various Technology Inspect 
+Laser Feature Light Amplification Principle Laser Digital Optical_communication Area Applicate Inspect Modern Civilization Laser Important Recognize 
+Quantum Double_slit_experiment Particle_wave_duality Check Quantum Distribution Experiment Result Probability Wave Interference Foundation Interpret 
+Superposition Measure Probability Phase Change Understand Use Quantum_computer Quantum_cryptography_communication Quantum Technology Everyday_life Future Society Effect Recognize 
+Tunnel_effect Explain Phenomenon Technology Inspect Present 
+Modern_atomic_model Uncertainty_principle Probability Base Explain Bohr_atomic_model Compare 
+Star Nuclear_fusion Energy Create Light Emission Principle Star Light Spectrum Base Star Composition Element Reason 

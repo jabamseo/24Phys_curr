@@ -1,0 +1,17 @@
+Charge Electric_field Electric_field_lines Equipotential_surface Electric_field Intensity Direction 
+Electrostatic_induction Dielectric_polarization 
+Magnetic_field_lines Electric_current Wire Magnetic_field Intensity Direction 
+Lorentz_force Lorentz_force 
+Magnetic_flux Electromagnetic_induction Transformers Inductor Electromagnetic_induction 
+Resistance Capacitor Inductor Energy 
+Diode Transistor Semiconductor Electronic_circuit Semiconductor 
+Light Interference Diffraction Hologram 
+Lens Mirror Optical_equipment Aberration 
+Polarization Digital 
+Photoelectric_effect Light Matter Interaction Digital Optical_sensor Solar_cell Photoelectric_effect 
+Laser Light Amplification Laser Digital Optical_communication Laser 
+Quantum Double_slit_experiment Particle_wave_duality Quantum Distribution Probability Wave Interference 
+Superposition Probability Phase Quantum_computer Quantum_cryptography_communication Quantum 
+Tunnel_effect 
+Modern_atomic_model Uncertainty_principle Probability Bohr_atomic_model 
+Star Nuclear_fusion Energy Create Light Emission Star Light Spectrum Star Element 

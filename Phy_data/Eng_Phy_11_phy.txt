@@ -1,0 +1,18 @@
+Object Act Net_force Torque Equilibrium Stability 
+Newton's_laws_of_motion Constant_acceleration Motion 
+Act Reaction Momentum Conservation_law Projectile 
+Work Kinetic_energy Potential_energy Mechanical_energy Conservation_law 
+Mechanical_energy Heat Transform Energy 
+Heat Mechanical_energy Transform Perpetual_mobile 
+Charge Particle Electric_field Electric_potential_difference Formation Electricity Interaction 
+Electric_circuit Resistance Connection Power_consumption Electrical_appliance 
+Capacitor Electric_energy Sensor Electrical_signal Input_device 
+Magnetic_material Magnetic_material 
+Electric_current Magnetic_action Energy Transform Speaker Electric_motor 
+Electromagnetic_induction Sensor Energy Transmit 
+Light Superposition Interference Light Wave_nature 
+Light Refraction Convex_lens Image Semiconductor 
+Light Matter Duplicity Electron_microscope 
+Atom Electron Quantum Energy_level Spectrum 
+Solid Energy_band Conductor Insulator Semiconductor 
+Inertial_frame Light Speed Time_dilation Length_contraction 

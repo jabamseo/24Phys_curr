@@ -1,0 +1,26 @@
+Temperature Thermal_equilibrium_state Matter Particle 
+Heat Conduct Convection Radiation Transmit Heat_transfer Model 
+Matter Specific_heat Thermal_expansion 
+Diffusion Evaporation Matter Particle Motion 
+Matter Phase Particle_model 
+Matter Phase Particle_model 
+Matter Phase Heat_energy 
+Object Act Force Direction Force Equilibrium 
+Gravity Elastic_force Friction_force Buoyancy Force Size Direction 
+Net_force Object Motion Phase 
+Act Force Force Equilibrium Force 
+Pressure Gas Pressure Particle Motion 
+Gas Pressure Volume Particle_model 
+Gas Temperature Volume Particle_model 
+Light Reflect Refraction Object Light Route 
+Flat_mirror Image Mirror Lens Image 
+Object Light Reflect Light Synthesis 
+Wave Transmit Sound Amplitude Frequency Waveform 
+Friction Electricity Electrostatic_induction Electric_force Atomic_model 
+Electric_circuit Electric_current Model Resistance Electric_current Voltage 
+Resistance Serial_connection Parallel_connection Electric_energy Energy Transform Power_consumption 
+Magnetic_field Electric_current Coil Force Electric_motor 
+Straigh_line Object Motion Graph 
+Free_fall Object Motion Time Speed 
+Work Free_fall Object Motion Gravity Work Potential_energy Kinetic_energy 
+Object Motion Mechanical_energy Transform Conservation_law Object Motion 

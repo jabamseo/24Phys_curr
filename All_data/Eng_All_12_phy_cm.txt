@@ -1,0 +1,16 @@
+Object Act Various Force Resultant_force Object Motion Quantitative Predict 
+Newton's_laws_of_motion Use Object Parabolic_motion Quantitative Explain Parabolic_motion Mechanical_energy 
+Object Act Force Direction Object Motion Direction Circular_motion Various Example Explain 
+Kepler's_laws Gravity Existence History_of_science Understand Gravity Use Satellite Planet Motion Analyze Explain 
+Mechanical_energy Conservation_law Use Planet Escape_speed Understand Momentum Conservation_law Use Spaceship Launch Orbit Principle Explain 
+Equivalence_principle Space-time_distortion Black_hole Gravitational_time_dilation Understand General_relativity Interest 
+Construct Various Heat_energy Technology Insulation Thermal_expansion Applicate Example Inspect Science Utility Value Recognize 
+Heat Matter Phase Change Understand Ideal_gas Temperature Pressure Volume Relationship Explain 
+System Heat System Internal_energy Change Out Work Understand Everyday_life Example Interest 
+Various Heat_engine Cycle Thermal_efficiency Explain Heat_engine Develop Applicate Human Community Effect Industry Progress Environment Side Evaluation 
+Heat Movement Gas Diffusion Irreversible_phenomenon Entropy Use Explain 
+Spring Pendulum Simple_harmonic_oscillation Understand Acceleration Displacement Between Relationship Explain 
+Elastic_waves Proceed Transmission Reflect Understand Elastic_waves Applicate Example Science Utility Recognize 
+Doppler_effect Understand Object Velocity Measure Various Device Use Explain 
+Acoustic Device Inside Outdoor Space Noise Control Sound_wave Interference Applicate Understand Everyday_life Use Example Inspect 
+String_instrument Wind Sound Principle Standing_wave Use Explain 

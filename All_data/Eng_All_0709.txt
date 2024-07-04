@@ -1,0 +1,26 @@
+Temperature Thermal_equilibrium_state Procedure Matter Composition Particle Arrangement Move Explain 
+Heat Conduct Convection Radiation Transmit Heat_transfer Procedure Model Use Various Express 
+Matter Specific_heat Thermal_expansion Degree Property Everyday_life Utility Applicate Recognize 
+Diffusion Evaporation Phenomenon Observe Matter Composition Particle Motion Infer 
+Matter Phase Feature Explain Particle_model Express 
+Matter Phase Change Observe Particle_model Explain 
+Matter Phase Change Heat_energy Coming_and_going Relationship Understand Everyday_life Apply Science Utility Recognize 
+Object Act Force Direction Use Force Equilibrium Condition Explain 
+Gravity Elastic_force Friction_force Buoyancy Understand Force Feature Size Direction Explain 
+Net_force Object Motion Phase Example Inspect Classification 
+Various Example Act Force Force Equilibrium Relationship Explain Everyday_life Force Feature Use Machine Device Design 
+Pressure Meaning Gas Pressure Particle Motion Explain 
+Gas Pressure Volume Relationship Experiment Result Particle_model Interpret 
+Gas Temperature Volume Relationship Experiment Result Particle_model Interpret 
+Light Reflect Refraction Principle Understand Object Procedure Light Route Use Express 
+Flat_mirror Image Principle Explain Everyday_life Use Mirror Lens Type Classification Image Feature Compare 
+Object Color Light Reflect Explain Video Device Light Synthesis Use Various Color Express Principle Understand 
+Wave Generate Transmit Procedure Understand Sound Characteristic Amplitude Frequency Waveform Science Terms Express 
+Friction Electricity Electrostatic_induction Phenomenon Observe Electric_force Atomic_model Use Explain 
+Electric_circuit Electric_current Model Explain Experiment Resistance Electric_current Voltage Between Relationship 
+Resistance Serial_connection Parallel_connection Feature Compare Everyday_life Electric_energy Various Form Energy Transform Power_consumption Explain 
+Magnetic_field Electric_current Coil Force Characteristic Reason Electric_motor Everyday_life Applicate Example 
+Straigh_line Object Motion Graph Interpret 
+Free_fall Object Motion Time Speed Change Schedule Analyze 
+Work Definition Free_fall Object Motion Gravity Work Potential_energy Kinetic_energy Express 
+Object Motion Mechanical_energy Transform Conservation_law Understand Applicate Everyday_life Object Motion Predict 

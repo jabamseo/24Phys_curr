@@ -1,0 +1,16 @@
+Object Act Force Resultant_force Object Motion 
+Newton's_laws_of_motion Object Parabolic_motion Parabolic_motion Mechanical_energy 
+Object Act Force Direction Object Motion Direction Circular_motion 
+Kepler's_laws Gravity Gravity Satellite Planet Motion 
+Mechanical_energy Conservation_law Planet Escape_speed Momentum Conservation_law Spaceship Launch Orbit 
+Equivalence_principle Space-time_distortion Black_hole Gravitational_time_dilation General_relativity 
+Heat_energy Insulation Thermal_expansion 
+Heat Matter Phase Ideal_gas Temperature Pressure Volume 
+System Heat System Internal_energy Work 
+Heat_engine Cycle Thermal_efficiency Heat_engine 
+Heat Gas Diffusion Irreversible_phenomenon Entropy 
+Spring Pendulum Simple_harmonic_oscillation Acceleration Displacement 
+Elastic_waves Proceed Transmission Reflect Elastic_waves 
+Doppler_effect Object Velocity 
+Acoustic Space Noise Control Sound_wave Interference 
+String_instrument Wind Sound Standing_wave 

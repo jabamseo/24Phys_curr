@@ -1,0 +1,18 @@
+Object Act Net_force Torque Equilibrium Various Structure Stability Analyze 
+Newton's_laws_of_motion Constant_acceleration Motion Explain Traffic_safety Accident Prevention Apply 
+Act Reaction Relationship Momentum Conservation_law Sports Transportation Projectile Apply 
+Work Kinetic_energy Relationship Understand Potential_energy Mechanical_energy Conservation_law Explain 
+Mechanical_energy Heat Form Transform Energy Total_amount Explain 
+Heat Mechanical_energy Transform Procedure Efficiency Qualitative Understand Perpetual_mobile Example Demonstrate 
+Charge Particle Electric_field Electric_potential_difference Formation Electricity Interaction Explain 
+Electric_circuit Resistance Connection Power_consumption Various Electrical_appliance Apply Example 
+Capacitor Electric_energy Save Principle Various Sensor Electrical_signal Input_device Everyday_life Product Applicate Explain 
+Magnetic_material Type Everyday_life Industry Technology Magnetic_material Applicate Example 
+Electric_current Magnetic_action Use Energy Transform Device Principle Speaker Electric_motor Design 
+Electromagnetic_induction Sensor Wireless_communication Wireless_charging Energy Transmit Technology Apply Modern Civilization Effect Recognize 
+Light Superposition Interference Light Wave_nature Use Technology Phenomenon Example Explain 
+Light Refraction Use Convex_lens Image Procedure Explain Semiconductor Display Produce Process Important Applicate Recognize 
+Light Matter Duplicity Electron_microscope Video Information Save Various Applicate Explain 
+Atom Electron Quantum Energy_level Spectrum Observe Evidence Background Demonstrate 
+Solid Energy_band Conductor Insulator Difference Semiconductor Principle Explain 
+Inertial_frame Light Speed Principle Time_dilation Length_contraction Phenomenon Knowledge Society Effect Inspect 
