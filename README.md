@@ -1,7 +1,7 @@
 # 24Phys_curr
 
 언어 네트워크를 활용한 2022 개정 교육과정 물리학 분야 성취기준 분석
-Semantics Network Analysis of Achievement Standards in Physics of 2022 Revised Curriculum
+\\ Semantics Network Analysis of Achievement Standards in Physics of 2022 Revised Curriculum
 
 서지범, 조준, 한수경, 하미순
 Jibeom Seo, Jun Cho, Sukyung Han, Meesoon Ha
