@@ -23,3 +23,7 @@ We investigate semantics networks of achievement standards for physics subjects 
 <br/><br/>
 
 ※ 문의사항: qja1264@gmail.com 또는 qja1264@g.skku.edu
+
+---
+<정오표>
+- 2024.07.19: Applicate → Utilize
