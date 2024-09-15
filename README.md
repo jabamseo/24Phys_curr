@@ -1,5 +1,7 @@
 # 24Phys_curr
 
+![animation_style_Asian_boy_dressed_in_a_white_lab_c](https://github.com/user-attachments/assets/3b70bd6e-647a-4248-aa6a-d905a184d08a)
+
 ## 언어 네트워크를 활용한 2022 개정 교육과정 물리학 분야 성취기준 분석<br/> Semantics Network Analysis of Achievement Standards in Physics of 2022 Revised Curriculum
 
 ### **서지범**, 조준, 한수경, 하미순<br/>**Jibeom Seo**, Jun Cho, Sukyung Han, Meesoon Ha
