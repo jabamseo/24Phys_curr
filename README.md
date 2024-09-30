@@ -12,6 +12,10 @@ We investigate semantics networks of achievement standards for physics subjects 
 
 <br/>
 
+본 연구는 새물리에 출판되었으며, 다음 링크에서 확인할 수 있습니다: https://www.npsm-kps.org/journal/view.html?uid=7877
+
+<br/>
+
 본 연구에서 활용한 데이터와 코드를 담고 있습니다.
 - **All_data**: 전체 단어 자료입니다.
 - **Phy_data**: 물리학 용어 자료입니다.
