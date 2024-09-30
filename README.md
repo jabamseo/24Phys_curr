@@ -12,7 +12,7 @@ We investigate semantics networks of achievement standards for physics subjects 
 
 <br/>
 
-본 연구는 새물리에 출판되었으며, 다음 링크에서 확인할 수 있습니다: https://www.npsm-kps.org/journal/view.html?uid=7877
+본 연구는 새물리에 출판되었으며, 다음 링크에서 확인할 수 있습니다: http://dx.doi.org/10.3938/NPSM.74.944
 
 <br/>
 
