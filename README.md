@@ -2,7 +2,7 @@
 
 ![animation_style_Asian_boy_dressed_in_a_white_lab_c](https://github.com/user-attachments/assets/3b70bd6e-647a-4248-aa6a-d905a184d08a)
 
-## 언어 네트워크를 활용한 2022 개정 교육과정 물리학 분야 성취기준 분석<br/> Semantics Network Analysis of Achievement Standards in Physics of 2022 Revised Curriculum
+## 언어 네트워크를 활용한 2022 개정 교육과정 물리학 분야 성취기준 분석<br/> Semantic Network Analysis of Achievement Standards in Physics of 2022 Revised Curriculum
 
 ### **서지범**, 조준, 한수경, 하미순<br/>**Jibeom Seo**, Jun Cho, Sukyung Han, Meesoon Ha
 
@@ -12,14 +12,14 @@ We investigate semantics networks of achievement standards for physics subjects 
 
 <br/>
 
-본 연구는 새물리에 출판되었으며, 다음 링크에서 확인할 수 있습니다: http://dx.doi.org/10.3938/NPSM.74.944
+This study was published in 'New Physics: Sae Mulli' and can be found at the following link: http://dx.doi.org/10.3938/NPSM.74.944
 
 <br/>
 
-본 연구에서 활용한 데이터와 코드를 담고 있습니다.
-- **All_data**: 전체 단어 자료입니다.
-- **Phy_data**: 물리학 용어 자료입니다.
-- **kor_eng.xlsx**: 한글 용어와 영어 용어 매칭 테이블입니다.
+The data and code used in this study.
+- **All_data**: 전체 단어 자료입니다 (All word data).
+- **Phy_data**: 물리학 용어 자료입니다 (Physics terminology data).
+- **kor_eng.xlsx**: 한글 용어와 영어 용어 매칭 테이블입니다 (Matching table of Korean and English terms).
 - **code**: 각 언어 네트워크의 분석 결과를 담고 있는 4개의 파일과, 이분 네트워크 분석 결과를 담고 있는 파일로 구성되어 있습니다.
 - **Figure**: 그림 원본 파일입니다.
 - **Table**: 논문의 영어 표를 한글로 번역한 것입니다.
@@ -31,3 +31,4 @@ We investigate semantics networks of achievement standards for physics subjects 
 ---
 <정오표>
 - 2024.07.19: Applicate → Utilize
+- 2025.08.10: Semantics → Semantic
